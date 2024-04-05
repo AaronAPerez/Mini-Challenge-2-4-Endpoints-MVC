@@ -16,5 +16,5 @@ Project Description: Design an API with 3 Endpoints: <br>
      II. The second statement should tell me if the second number is greater than, less than, or equal to the first number.  <br>
    
 
-Peer Review by:   <br>
-Comment:  <br>
+Peer Review by:  Alicia Bryant <br>
+Comment: All endpoints are working. The first endpoint successfully executes the sum of 2 numbers. The second endpoint takes in the users name and time they woke up and works correctly. The third successfully takes two numbers and tells you which is greater/lesser. Great job!
