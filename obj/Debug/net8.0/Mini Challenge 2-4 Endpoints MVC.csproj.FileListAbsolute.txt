@@ -1,0 +1,33 @@
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.csproj.AssemblyReference.cache
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.AssemblyInfoInputs.cache
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.AssemblyInfo.cs
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.csproj.CoreCompileInputs.cache
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\appsettings.json
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.exe
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.deps.json
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.runtimeconfig.json
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.dll
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.pdb
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\staticwebassets\msbuild.Mini Challenge 2-4 Endpoints MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Mini Challenge 2-4 Endpoints MVC.props
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mini Challenge 2-4 Endpoints MVC.props
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mini Challenge 2-4 Endpoints MVC.props
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\scopedcss\bundle\Mini Challenge 2-4 Endpoints MVC.styles.css
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Cha.441CA8D8.Up2Date
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.dll
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\refint\Mini Challenge 2-4 Endpoints MVC.dll
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.pdb
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\Mini Challenge 2-4 Endpoints MVC.genruntimeconfig.cache
+C:\Documents\C#\CodeStack C#\..My C# Challenges\Mini Challenge 2-4 Endpoints MVC\obj\Debug\net8.0\ref\Mini Challenge 2-4 Endpoints MVC.dll
